@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8410799b541c6c4f5f2849ff7521e20cd615062c">
+        <dex dex="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1db0bac405c50fb28e993b07a7e1f0d102e8eab4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_f216a3b75b113d0dd6825260bf1de59147aeaae1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75f6689545dbbbe57e0093c87fbedea3033f814a">
+        <dex dex="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9779194b1adec49e9786fbc396dfeda961c12e78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_bc1b263eeffcfb0d5763f7ac0c35bb81f3d29bf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_cf6344e7d848d4b742589990bd9c47373a63164a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cserrao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/cserrao/AndroidStudioProjects/MultipleActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_71ee8df8b889fe3c6b97b4b3d430b606d80e44dd/classes.dex" />
+    </item>
+
+</items>
